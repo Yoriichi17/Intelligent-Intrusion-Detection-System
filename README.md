@@ -127,7 +127,7 @@ Dashboard/  <br/>
     a. Open the terminal in the directory of your choice,</li><br/>
     b. copy and paste the below command: <br/>
     
-      git clone https://github.com/ankush07261/Intelligent-Intrusion-Detection-System.git
+      git clone https://github.com/Yoriichi17/Intelligent-Intrusion-Detection-System.git
 
   <h3>2. Set up the environment:</h3>
     a. Navigate inside the project directory
@@ -201,10 +201,10 @@ Now you may register yourself and login to view the dashboard (unauthorized regi
 <h2>🐋 Running the project using docker image:</h2>
 Pull the docker image and run:
 
-    docker pull ankus263/intelligent-intrusion-detection-system:latest
+    docker pull Yoriichi17/intelligent-intrusion-detection-system:latest
 and then:
 
-    docker run -p 5000:5000 ankus263/intelligent-intrusion-detection-system:latest
+    docker run -p 5000:5000 Yoriichi17/intelligent-intrusion-detection-system:latest
 
 <h2>📈 Future Enhancements</h2>
 <ul>
